@@ -44,8 +44,8 @@
 2. Console:
 ![task-f-dev-tools-console.png](../images/task-f-dev-tools-console.png)
 
-> [!NOTE]: 
-> The console shows notARealFunction is not defined in javascript to be executed/
+> [!NOTE] 
+> The console shows notARealFunction is not defined in javascript to be executed
  
 3. Elements:
 ![task-f-dev-tools-elements.png](../images/task-f-dev-tools-elements.png)
